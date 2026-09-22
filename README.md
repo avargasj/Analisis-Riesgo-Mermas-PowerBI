@@ -6,7 +6,7 @@ Desarrollar un dashboard interactivo enfocado en la auditoría interna y el cont
 ---
 
 ## 📈 Dashboard Final
-![Dashboard](image.png)
+![Dashboard](imagenRiesgo.png) 
 
 ---
 
